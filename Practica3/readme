@@ -1,0 +1,44 @@
+﻿¡¡¡PROFESOR TUVE QUE BORRAR LOS .JS POR ESO LA PAGINA SE VE FEA PARA QUE PUDIERA SER MANDADO EL ZIP!!!!
+# Practica 3
+
+Practica 3 es un programa desarrollado en C para la impresion de cadenas mostrando su id de proceso y aparte detecta señales del SO como Ctl+c
+
+## Contiene
+
+Reporte:
+	-Reporte practica3.pdf
+Pagina html:
+	-index.html
+Codigo fuente:
+	-prog1.c
+	-prog2.c
+	-prog3.c
+Makefile
+
+## Uso
+
+Para compilar y correr el programa 1:
+
+make compila_1
+make run_1
+
+Para compilar y correr el programa 2:
+
+make compila_2
+make run_2
+
+Para compilar y correr el programa 3:
+
+make compila_3
+make run_3
+
+Para borrar todos los ejecutables:
+
+make clean 
+
+## Contributor
+
+Alan Ernesto Gonzalez Barrios
+
+Please make sure to update tests as appropriate.
+

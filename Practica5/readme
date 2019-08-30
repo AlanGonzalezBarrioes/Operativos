@@ -1,0 +1,27 @@
+# Practica 5
+
+Practica 5 es un programa desarrollado en C para la impresion de la suma total de los valores generados aleatoriamente por el padre y enviados impares a hijo2 y pares a hijo 1, y una vez sumados se los regresan al padre para imprimirlos
+
+## Contiene
+
+Reporte
+Codigo fuente
+Makefile
+
+## Uso
+
+Para correr el programa
+
+make compila
+make run
+
+Para borrar el ejecutable
+
+make clean 
+
+## Contributor
+
+Alan Ernesto Gonzalez Barrios
+
+Please make sure to update tests as appropriate.
+
